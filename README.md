@@ -1,4 +1,3 @@
-```markdown
 # AudioSphere Listener
 
 **AudioSphere Listener** es un componente personalizado para Gradio (versión 5.x) que provee una visualización 3D en tiempo real de la forma de onda de audio mediante una esfera de partículas. Permite integración plug-and-play con cualquier modelo ASR (reconocimiento automático de voz), ofrece detección inteligente de silencio y es completamente responsive (desktop y mobile).  
@@ -100,8 +99,6 @@ El componente incluye:
 
 ## Arquitectura y Estructura de Archivos
 
-```
-
 audio\_sphere\_listener/
 ├── component.ts                 # Lógica TypeScript principal (compilado a JS)
 ├── component.js                 # Versión compilada y minificada (para publicación en Gradio CC)
@@ -124,6 +121,7 @@ audio\_sphere\_listener/
 - **themes.json**: archivo JSON que lista temas predefinidos; puede modificarse o ampliarse sin recompilar.  
 - **plugins/**: directorio dedicado a plugins visuales que implementan la interfaz `VisualPlugin`. Al arrancar, el componente detecta archivos `.ts` o `.js` en `/plugins` y los inicializa automáticamente.  
 
+````
 ---
 
 ## Tecnologías Utilizadas
@@ -170,7 +168,6 @@ Para que otros desarrolladores puedan instalar y usar **AudioSphere Listener** e
    ```bash
    git clone https://github.com/tu-usuario/audio_sphere_listener.git
    cd audio_sphere_listener
-````
 
 2. **Instalar dependencias frontend (Solo si desea compilar localmente)**
 
