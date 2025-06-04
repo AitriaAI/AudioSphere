@@ -901,7 +901,7 @@ A continuación se detalla cada prop que el desarrollador puede configurar al in
   - Para solicitudes de nuevas características, agregue un **Feature Request** describiendo el caso de uso y posibles soluciones.
 
 - **Licencia**:  
-  Apache 2.0 License. Puedes revisar el archivo [APACHE-2.0](https://www.apache.org/dev/) en el repositorio.
+  Apache 2.0 License. Puedes revisar el archivo [APACHE-2.0](https://github.com/AitriaAI/AudioSphere/tree/main?tab=Apache-2.0-1-ov-file) en el repositorio.
 
 ---
 
