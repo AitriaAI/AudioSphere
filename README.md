@@ -166,7 +166,7 @@ Para que otros desarrolladores puedan instalar y usar **AudioSphere Listener** e
 
 1. **Clonar o descargar el repositorio**  
    ```bash
-   git clone https://github.com/tu-usuario/audio_sphere_listener.git
+   git clone https://github.com/AitriaAI/AudioSphere-Listener.git
    cd audio_sphere_listener
 
 2. **Instalar dependencias frontend (Solo si desea compilar localmente)**
@@ -901,7 +901,7 @@ A continuación se detalla cada prop que el desarrollador puede configurar al in
   - Para solicitudes de nuevas características, agregue un **Feature Request** describiendo el caso de uso y posibles soluciones.
 
 - **Licencia**:  
-  MIT License. Puedes revisar el archivo `LICENSE` en el repositorio.
+  Apache 2.0 License. Puedes revisar el archivo [APACHE-2.0](https://www.apache.org/dev/) en el repositorio.
 
 ---
 
