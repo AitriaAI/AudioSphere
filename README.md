@@ -856,7 +856,8 @@ A continuación se detalla cada prop que el desarrollador puede configurar al in
   "particle_colors": ["#FF00FF", "#00FFFF"],
   "rim_color": "#FF0099"
 }
-````                                                                                             | Esquema Cyberpunk por defecto |
+````
+                                                                                             | Esquema Cyberpunk por defecto |
 | `detect_language`            | `bool`           | Si `true`, se espera que el backend ASR retorne un código de idioma (ISO 639-1). Se muestra en la etiqueta `language_label`.                                              | `False`      |
 | `allow_sensitivity_adjustment` | `bool`         | Si `true`, exhibe un slider para ajustar en tiempo real el `silence_threshold`.                                                                                            | `False`      |
 | `fallback_to_pixi`           | `bool`           | Si `true`, fuerza el uso de PixiJS en lugar de Three.js (útil para navegadores sin WebGL o baja capacidad gráfica).                                                        | `False`      |
