@@ -890,7 +890,7 @@ A continuación se detalla cada prop que el desarrollador puede configurar al in
 ## Contacto y Soporte
 
 - **Repositorio Oficial**:  
-  https://github.com/tu-usuario/audio_sphere_listener  
+  https://github.com/AitriaAI/AudioSphere-Listener  
 
 - **Documentación Adicional y Ejemplos**:  
   - Carpeta `/examples/`: proyectos de muestra que muestran diferentes escenarios de uso.  
